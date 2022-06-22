@@ -28,8 +28,7 @@
 
 <br/>
 ##　闲鱼源码购买
-【闲鱼】https://m.tb.cn/h.fELHadj?tk=7BLd2MBJJ3C「我在闲鱼发布了【qt 内网穿透系统】」
-点击链接直接打开
+闲鱼 [源码链接](https://m.tb.cn/h.fELHadj?tk=7BLd2MBJJ3C)
 
 <br/>
 
