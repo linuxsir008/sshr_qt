@@ -1,6 +1,4 @@
-## 使用场景图  
-
-![](/home/wu/nvme/qt-workspace/sshr_server_qt/sshr_serer_qt使用场景图.bmp) 
+## 本软件实现的功能，效果类似于 ssh -R 38080:localhost:8080
 
 
 # 服务端设定
@@ -22,11 +20,17 @@
 # 测试看看
 ## 客户端启动后，和服务器端建立连接后， 服务器就会监听 38080端口（客户端配置文件中有设定）
 ## 当访问服务器端的 38080端口，就会访问 到客户端电脑的8080端口。
-## 效果类似于 ssh -R 38080:localhost:8080
 
 
+<br/>
 
+### 需要源码请联系
+### weixin
+![image](https://github.com/linuxsir008/sshr_qt/blob/master/image/weixin.jpg)
 
+<br/>
+### qq
+2377572461
 
 
 
