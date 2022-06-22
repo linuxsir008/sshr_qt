@@ -1,5 +1,7 @@
 ## 本软件实现的功能，效果类似于 ssh -R 38080:localhost:8080
-
+<br/>
+## 测试环境 centos 7
+<br/>
 
 # 服务端设定
 ## 服务器启动  ./sshr_server_qt 65532 server_uuid
