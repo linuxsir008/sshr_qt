@@ -28,9 +28,9 @@
 
 <br/>
 
-### 需要源码请联系
+### 需要源码请联系 , 另有java 内网穿透的　服务器和客户端源码
 ### weixin
-![image](https://github.com/linuxsir008/sshr_qt/blob/master/image/weixin.jpg)
+![image](https://www.wujiatong.group/weixin.jpg)
 
 <br/>
 
