@@ -27,7 +27,11 @@
 
 
 <br/>
+###　闲鱼源码购买
+【闲鱼】https://m.tb.cn/h.fELHadj?tk=7BLd2MBJJ3C「我在闲鱼发布了【qt 内网穿透系统】」
+点击链接直接打开
 
+<br/>
 ### 需要源码请联系 , 另有java 内网穿透的　服务器和客户端源码
 ### weixin
 ![image](https://www.wujiatong.group/weixin.jpg)
