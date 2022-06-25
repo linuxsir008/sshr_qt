@@ -1,7 +1,7 @@
 ## 本软件实现的功能，效果类似于 ssh -R 38080:localhost:8080
 <br/>
 
-## 测试环境 centos 7
+## 测试环境 centos7 macos10.15 windows10  
 
 <br/>
 
